@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  DeezerTest
+
+  Created by Nitesh Singh on 27/06/22.
+  
+*/
+
+"tab_home" = "Home";
+"tab_search" = "Search";
+"search_placeholder" = "Search artists (ex: Radiohead)";
+"top_tracks" = "TOP TRACKS";
+"top_artists" = "TOP ARTISTS";
+"top_albums" = "TOP ALBUMS";
+"top_playlists" = "CURATED PLAYLISTS";
+"top_podcasts" = "TOP PODCASTS";
+"popular" = "TOP";
+"others" = "OTHERS";

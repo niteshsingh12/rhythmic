@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  DeezerTest
+
+  Created by Nitesh Singh on 27/06/22.
+  
+*/
+
+"tab_home" = "Accueil";
+"tab_search" = "Rechercher";
+"search_placeholder" = "Rechercher des artistes";
+"top_tracks" = "MEILLEURES CHANSONS";
+"top_artists" = "MEILLEURS ARTISTES";
+"top_albums" = "MEILLEURS ALBUMS";
+"top_playlists" = "MEILLEURES PLAYLISTS";
+"top_podcasts" = "MEILLEURS PODCASTS";
+"popular" = "MEILLEUR ARTISTE";
+"others" = "AUTRES RESULTATS";
