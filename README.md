@@ -1,6 +1,6 @@
-# Deezer Test
+# Rhythmic
 
-Deezer Music app which lets user search artists, and play preview of their songs.
+Music app with Deezer's API which lets user search artists, and play preview of their songs.
 
 <p float="left">
   
